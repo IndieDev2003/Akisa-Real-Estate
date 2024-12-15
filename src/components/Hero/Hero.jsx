@@ -11,7 +11,7 @@ function Hero() {
             Dignissimos, veritatis?
           </p>
         </div>
-        <div className="flex flex-col md:flex-row gap-3 mt-4 w-fit px-10 py-5 md:items-end justify-center bg-gray-300">
+        <div className="flex flex-col md:flex-row gap-3 mt-4 w-fit px-10 py-5 md:items-end justify-center bg-gray-300 rounded-lg">
           <div className="flex flex-col gap-1">
             <label htmlFor="location">Location</label>
             <select className="px-4 py-2 rounded-lg" name="location" id="">
