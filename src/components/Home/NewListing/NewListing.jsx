@@ -1,5 +1,5 @@
 import React from "react";
-import PropertyItem from "../PropertyItem/PropertyItem";
+import PropertyItem from "../../PropertyItem/PropertyItem";
 
 function NewListing() {
   return (

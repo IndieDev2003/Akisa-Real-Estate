@@ -7,3 +7,10 @@
 .outfit{
   font-family: 'Outfit', sans-serif;
 }
+
+.active{
+  @apply text-blue-600
+}
+.capitalize h2{
+  @apply text-blue-700
+}
