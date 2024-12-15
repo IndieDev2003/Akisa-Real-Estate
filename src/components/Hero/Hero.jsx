@@ -3,7 +3,7 @@ import React from "react";
 function Hero() {
   return (
     <div className="md:px-10 sm:py-5 h-[90vh] w-full">
-      <div className="min-h-[85vh] w-full bg-slate-500 sm:rounded-xl flex flex-col items-center justify-center">
+      <div className="min-h-[85vh] w-full bg-[url(https://i.pinimg.com/1200x/25/44/62/25446296a9e101763a410291dadb4005.jpg)] bg-cover bg-center sm:rounded-xl flex flex-col items-center justify-center">
         <div className="flex flex-col items-center text-center px-4">
           <h1 className="text-5xl sm:text-6xl">Discover Your Perfect Home</h1>
           <p className="text-sm md:text-lg max-w-[80vw]">
