@@ -25,7 +25,7 @@ function Footer() {
         </ul>
         <ul>
           <li  className='text-2xl'>Social Media</li>
-          <li>Facebook</li>
+          <li>Instagram</li>
           <li>Github</li>
           <li>LinkedIn</li>
         </ul>
