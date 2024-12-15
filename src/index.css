@@ -14,3 +14,7 @@
 .capitalize h2{
   @apply text-blue-700
 }
+
+::-webkit-scrollbar{
+  display: none;
+}

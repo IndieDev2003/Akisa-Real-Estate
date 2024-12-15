@@ -28,7 +28,7 @@ function PropertyList() {
               <PropertyItem proCat={'Apartment'}/>
               <PropertyItem proCat={'Farm House'}/>
               <PropertyItem proCat={'Garage'}/>
-              <PropertyItem/>
+              <PropertyItem proSale={true}/>
               <PropertyItem/>
               <PropertyItem/>
               <PropertyItem/>
